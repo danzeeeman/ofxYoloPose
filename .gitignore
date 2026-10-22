@@ -1,0 +1,7 @@
+# models are downloaded into the app, not kept here
+*.onnx
+*.pt
+
+# OS / build
+.DS_Store
+obj/
